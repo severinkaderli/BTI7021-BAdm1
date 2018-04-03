@@ -133,3 +133,18 @@ Siehe Exercise_1.1.xlsx.
 6. **Kunden:** Produkte, Dienstleistungen, Guter Ruf
 7. **Konkurrenz:** Wollen das Unternehmen sterben sehen
 8. **Staat und Gesellschaft:** Steuern, gute Wirtschaft
+
+## Aufgabe 2.3
+1. Mobilien / Bar (L, EU)
+2. Fahrzeuge / Bank (L, EU)
+3. Bar / Darlehen (L, EU)
+4. Bar / Bank (LU, EU)
+5. Werbung / Bar (L, EU)
+6. Büroaufwand / Bar (L, EU)
+7.
+8. Handelswaren / Kreditoren (LU, EU)
+9. Bank / Debitoren (L, EU)
+10. Darlehen / Bank (L, EU)
+11. Lohn / Kasse (L, EU)
+12. Bank / Ertrag (L, E)
+13. Post / Bank (LU, EU)
