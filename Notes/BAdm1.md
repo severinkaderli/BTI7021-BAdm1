@@ -100,7 +100,25 @@ Man bietet ein gratis Produkt an und um es schlussendlich richtig zu benutzen, m
 Man schliesst sich mit anderen Unternehmen zusammen um ein bestimmtes Produkt zu entwickeln und wickelt dann mit Verträgen ab, wie dieses Produkt dann verkauft bzw. eingesetzt werden kann. Dadurch haben Unternehmen einen gleichen Standard.
 
 # 6. Finanzbuchhaltung
+## Einzelunternehmung
+### Konto Privat
+Das Konto Privat erfasst den Verkehr zwischen dem Geschäfts- und dem Privatbereich des Inhabers.
 
+#### Soll
+* Privatebezüge des Inhabers
+* Zahlung von Privatrechnungen durch das Geschäft
+* Private Benützung von Geschäftseinrichtungen (Geschäftsauto etc.)
+
+#### Haben
+* Lohngutschriften (Eigenlohn)
+* Zinsgutschrift für das Eigenkapital
+* Zahlung von Geschäftsspesen durch den Inhaber
+* Benützung von Privateinrichtungen für das Geschäft
+
+Das Saldo des Konto Privat wird am Schluss auf das Eigenkapital verschoben.
+
+## Aktiengesellschaft CH
+###
 
 # Aufgaben
 ## Aufgabe 1.1
@@ -148,3 +166,6 @@ Siehe Exercise_1.1.xlsx.
 11. Lohn / Kasse (L, EU)
 12. Bank / Ertrag (L, E)
 13. Post / Bank (LU, EU)
+
+
+## Aufgabe 2.18
